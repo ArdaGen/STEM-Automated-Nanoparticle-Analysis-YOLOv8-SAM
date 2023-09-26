@@ -2,11 +2,11 @@
 Repository for automated nanoparticle analysis using Yolov8 and SAM in Scanning Transmission Electron Microscopy Images.
 This material-agnostic ML workflow successfully detects and segments nanoparticles on different catalyst substrate materials.
 
-* Velox emd
+* **Velox emd** <br>
   Read Velox S/TEM images and metadata
-* Detector
+* **Detector** <br>
   Run Yolov8 on the S/TEM images and generate box prompts
-* Segmentation
+* **Segmentation** <br>
   Generate masks using SAM
-* Analysis
+* **Analysis** <br>
   Particle size and area distribution
