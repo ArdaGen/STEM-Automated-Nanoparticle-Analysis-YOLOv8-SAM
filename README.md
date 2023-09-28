@@ -17,8 +17,10 @@ This material-agnostic ML workflow successfully detects and segments nanoparticl
 Weights for yolov8 nanoparticle object detection <br>
 https://drive.google.com/file/d/18dHxlF30ZkPLlikhx7hBWgXhLkpwIk8v/view?usp=sharing
 
-Weights for SAM
-
+Weights for SAM <br>
+https://drive.google.com/file/d/1iYPrlGzIoN8-sfg2khJIP6mGgFDSNP4-/view?usp=sharing 
+<br>
+<br>
 
 https://github.com/ArdaGen/TEM-Nanoparticle-Analysis-Yolov8-SAM/assets/86938894/e39af41d-ee98-4ece-8db1-887288a2ab42
 
