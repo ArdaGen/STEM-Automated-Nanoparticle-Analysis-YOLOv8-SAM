@@ -22,5 +22,4 @@ https://drive.google.com/file/d/1iYPrlGzIoN8-sfg2khJIP6mGgFDSNP4-/view?usp=shari
 <br>
 <br>
 
-https://github.com/ArdaGen/TEM-Nanoparticle-Analysis-Yolov8-SAM/assets/86938894/e39af41d-ee98-4ece-8db1-887288a2ab42
-
+https://github.com/ArdaGen/TEM-Nanoparticle-Analysis-Yolov8-SAM/blob/main/images/AI_nanoparticle.gif
