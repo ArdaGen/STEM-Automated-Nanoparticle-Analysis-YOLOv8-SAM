@@ -14,6 +14,7 @@ This material-agnostic ML workflow successfully detects and segments nanoparticl
 * **Analysis** <br>
   Particle size and area distribution
 
+Weights for yolov8 nanoparticle <br>
 
 
 https://github.com/ArdaGen/TEM-Nanoparticle-Analysis-Yolov8-SAM/assets/86938894/e39af41d-ee98-4ece-8db1-887288a2ab42
