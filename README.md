@@ -4,7 +4,7 @@
 ![8](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/assets/86938894/4a28c67c-c7d1-4116-a91f-0ddc419f87f3)
 
 
-Repository for automated nanoparticle analysis in Scanning Transmission Electron Microscopy images using [YOLOv8](https://github.com/ultralytics/ultralytics) and [segment anything model (SAM)](https://github.com/facebookresearch/segment-anything).
+Repository for automated nanoparticle analysis in Scanning Transmission Electron Microscopy (S/TEM) images using [YOLOv8](https://github.com/ultralytics/ultralytics) and [segment anything model (SAM)](https://github.com/facebookresearch/segment-anything).
 This material-agnostic ML workflow successfully detects and segments nanoparticles on different catalytic substrate materials.
 
 ## Scripts
