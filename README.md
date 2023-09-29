@@ -39,7 +39,7 @@ https://github.com/facebookresearch/segment-anything
 ```
 
 
-https://github.com/ArdaGen/TEM-Nanoparticle-Analysis-Yolov8-SAM/assets/86938894/58c43ba5-14b6-4961-be76-50267595c13c
+ <video loop src="./images/Auto_particle_AI_movie_new.mp4">  video </video> 
 
 
 
