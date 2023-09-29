@@ -29,11 +29,11 @@ https://drive.google.com/file/d/1iYPrlGzIoN8-sfg2khJIP6mGgFDSNP4-/view?usp=shari
 Install [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
 <br>
-Install ultralytics for YOLOv8
+Install Ultralytics for YOLOv8
 ```
 pip install ultralytics
 ```
-Install segment anything model (SAM)
+Install Segment Anything Model (SAM)
 ```
 https://github.com/facebookresearch/segment-anything
 ```
