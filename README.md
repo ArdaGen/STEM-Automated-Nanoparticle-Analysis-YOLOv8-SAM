@@ -38,8 +38,7 @@ Install segment anything model (SAM)
 https://github.com/facebookresearch/segment-anything
 ```
 
-
- <video loop src="./images/Auto_particle_AI_movie_new.mp4">  video </video> 
+<video src="./images/AI_nanoparticle.gif" width="320" height="200" controls preload></video>
 
 
 
