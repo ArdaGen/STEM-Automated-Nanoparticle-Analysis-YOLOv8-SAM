@@ -37,7 +37,7 @@ Install Segment Anything Model (SAM)
 ```
 https://github.com/facebookresearch/segment-anything
 ```
-
+## Demo
 ![](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/AI_nanoparticle.gif)
 
 
