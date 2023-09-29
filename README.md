@@ -16,7 +16,7 @@ This material-agnostic ML workflow successfully detects and segments nanoparticl
 * **Analysis** <br>
   Particle size and area distribution
 ## Model weights
-Weights for YOLOv8 nanoparticle object detection <br>
+Weights for YOLOv8 S/TEM nanoparticle object detection <br>
 https://drive.google.com/file/d/18dHxlF30ZkPLlikhx7hBWgXhLkpwIk8v/view?usp=sharing
 
 Weights for SAM <br>
