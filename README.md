@@ -1,5 +1,5 @@
 ## S/TEM-Nanoparticle-Analysis-YOLOv8-SAM
-
+<img src="./images/Flow.svg">
 <br>
 Repository for automated nanoparticle analysis using [YOLOv8](https://github.com/ultralytics/ultralytics) and [segment anything model (SAM)](https://github.com/facebookresearch/segment-anything) in Scanning Transmission Electron Microscopy images.
 This material-agnostic ML workflow successfully detects and segments nanoparticles on different catalytic substrate materials.
