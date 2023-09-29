@@ -19,11 +19,21 @@ https://drive.google.com/file/d/18dHxlF30ZkPLlikhx7hBWgXhLkpwIk8v/view?usp=shari
 
 Weights for SAM <br>
 https://drive.google.com/file/d/1iYPrlGzIoN8-sfg2khJIP6mGgFDSNP4-/view?usp=sharing 
-
 <br>
 <br>
-
-
+## Installation
+Install pytorch
+```
+https://pytorch.org/get-started/locally/
+```
+Install ultralytics for Yolov8
+```
+pip install ultralytics
+```
+Install segment anything model (SAM)
+```
+https://github.com/facebookresearch/segment-anything
+```
 
 
 https://github.com/ArdaGen/TEM-Nanoparticle-Analysis-Yolov8-SAM/assets/86938894/58c43ba5-14b6-4961-be76-50267595c13c
