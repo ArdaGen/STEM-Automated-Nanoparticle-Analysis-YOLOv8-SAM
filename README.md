@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1iYPrlGzIoN8-sfg2khJIP6mGgFDSNP4-/view?usp=shari
 Install [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
 <br>
-Install ultralytics for [YOLOv8](https://github.com/ultralytics/ultralytics)
+Install ultralytics for YOLOv8
 ```
 pip install ultralytics
 ```
