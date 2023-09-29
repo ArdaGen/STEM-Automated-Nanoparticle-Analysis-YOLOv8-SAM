@@ -3,7 +3,7 @@
 <br>
 <br>
 Repository for automated nanoparticle analysis using YOLOv8 and segment anything model (SAM) in Scanning Transmission Electron Microscopy Images.
-This material-agnostic ML workflow successfully detects and segments nanoparticles on different catalyst substrate materials.
+This material-agnostic ML workflow successfully detects and segments nanoparticles on different catalytic substrate materials.
 
 ## Scripts
 * **Velox emd** <br>
