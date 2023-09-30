@@ -12,7 +12,7 @@ This material-agnostic ML workflow successfully detects and segments nanoparticl
   Read Velox S/TEM images and metadata
 * **Detector** <br>
   Run YOLOv8 on the S/TEM images and generate box prompts <br>
-  Generate masks using SAM
+  Segment nanoparticles using SAM
 * **SAM visualize** <br>
   Visualize segmentations
 * **Analysis** <br>
