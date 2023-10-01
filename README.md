@@ -10,12 +10,12 @@ This material-agnostic ML workflow successfully detects and segments nanoparticl
 ![9](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/Page%205.jpg)
 ## Scripts
 * **Velox emd** <br>
-  Read Velox S/TEM images and metadata
+  Read Thermo Fisher Scientific Velox S/TEM image and metadata
 * **Detector** <br>
   Run YOLOv8 on the S/TEM images and generate box prompts <br>
-  Segment nanoparticles using SAM
+  Segment nanoparticles using box prompts and SAM
 * **SAM visualize** <br>
-  Visualize segmentations
+  Visualize segmentation
 * **Analysis** <br>
   Particle size and area distribution
 
