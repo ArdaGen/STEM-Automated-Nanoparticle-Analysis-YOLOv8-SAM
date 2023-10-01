@@ -1,4 +1,4 @@
-## S/TEM-Nanoparticle-Analysis-YOLOv8-SAM
+## Automated S/TEM-Nanoparticle-Analysis-YOLOv8-SAM
 
 
 ![8](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/g37046.svg)
