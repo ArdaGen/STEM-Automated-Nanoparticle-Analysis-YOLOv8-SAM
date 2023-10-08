@@ -17,7 +17,7 @@ This material-agnostic ML workflow successfully detects and segments nanoparticl
 * **SAM visualize** <br>
   Visualize segmentation
 * **Analysis** <br>
-  Particle size and area distribution
+  Particle size and area distribution <br>
 
 
 ## Model weights
@@ -40,6 +40,8 @@ Install Segment Anything Model (SAM)
 ```
 https://github.com/facebookresearch/segment-anything
 ```
+## Cite
+[![DOI](https://zenodo.org/badge/696562764.svg)](https://zenodo.org/badge/latestdoi/696562764)
 ## Demo
 ![](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/AI_nanoparticle.gif)
 
