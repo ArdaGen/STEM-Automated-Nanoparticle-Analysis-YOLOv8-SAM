@@ -23,13 +23,6 @@ Sets of object detection, segmentation, and NP analysis results from BF-TEM imag
 * **Analysis** <br>
   Particle size and area distribution <br>
 
-
-## Model weights
-Weights for YOLOv8 S/TEM nanoparticle object detection <br>
-https://drive.google.com/file/d/1XY8FXWtPb8T-QkiEPR0ENWRPcck_aHRS/view?usp=sharing
-
-Weights for SAM <br>
-https://drive.google.com/file/d/1iYPrlGzIoN8-sfg2khJIP6mGgFDSNP4-/view?usp=sharing 
 <br>
 <br>
 ## Installation
