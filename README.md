@@ -23,8 +23,7 @@ Sets of object detection, segmentation, and NP analysis results from BF-TEM imag
 * **Analysis** <br>
   Particle size and area distribution <br>
 
-<br>
-<br>
+
 ## Installation
 Install [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
