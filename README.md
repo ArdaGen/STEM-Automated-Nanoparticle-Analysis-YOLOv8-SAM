@@ -27,6 +27,7 @@ Sets of object detection, segmentation, and NP analysis results from BF-TEM imag
 ## Installation
 Install [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
+weights for YOLOv8 particle detection [https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM?usp=sharing](https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM?usp=sharing)
 <br>
 Install Ultralytics for YOLOv8
 ```
