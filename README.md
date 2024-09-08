@@ -39,10 +39,24 @@ https://github.com/facebookresearch/segment-anything
 weights for YOLOv8 particle detection [here](https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM?usp=sharing)
 
 ## Cite
-If you use this code in your research, please use the following DOI badge 
-<br>
-<br>
-[![DOI](https://zenodo.org/badge/696562764.svg)](https://zenodo.org/badge/latestdoi/696562764)
+```
+@article{10.1093/mam/ozae044.196,
+    author = {Genc, Arda and Marlowe, Justin and Finzel, Jordan and Christopher, Phillip},
+    title = "{AI-Enhanced Nanoparticle Analysis: Integrating Single-Shot Object Detection and Vision Transformer for Rapid and Accurate Characterization}",
+    journal = {Microscopy and Microanalysis},
+    volume = {30},
+    number = {Supplement_1},
+    pages = {ozae044.196},
+    year = {2024},
+    month = {07},
+    abstract = "{Nanoparticles (NPs) are integral to a wide range of scientific, technological, and industrial applications due to their unique properties. Accurate and efficient analysis of NP characteristics is essential for advancing our understanding of their structure-property relationship and facilitating their applications. In this study, we introduce a novel AI prompt engineering approach to NP analysis, utilizing state-of-the-art single-shot detection (SSD) and vision transformer (ViT) techniques, including Ultralytics YOLOv8 and Meta AI segment-anything model (SAM) frameworks, as illustrated in Figure 1 [1, 2]. Our results demonstrate that AI-powered automated nanoparticle analysis is competitive with human-handcrafted manual methods, significantly reducing the processing and analysis time while maintaining high precision and accuracy.}",
+    issn = {1431-9276},
+    doi = {10.1093/mam/ozae044.196},
+    url = {https://doi.org/10.1093/mam/ozae044.196},
+    eprint = {https://academic.oup.com/mam/article-pdf/30/Supplement\_1/ozae044.196/58670943/ozae044.196.pdf},
+}
+
+```
 ## Demo
 ![](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/AI_nanoparticle_2.gif)
 
