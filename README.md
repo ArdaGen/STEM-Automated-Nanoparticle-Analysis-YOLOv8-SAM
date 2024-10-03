@@ -40,20 +40,14 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 
 ## Cite
 ```
-@article{10.1093/mam/ozae044.196,
-    author = {Genc, Arda and Marlowe, Justin and Finzel, Jordan and Christopher, Phillip},
-    title = "{AI-Enhanced Nanoparticle Analysis: Integrating Single-Shot Object Detection and Vision Transformer for Rapid and Accurate Characterization}",
-    journal = {Microscopy and Microanalysis},
-    volume = {30},
-    number = {Supplement_1},
-    pages = {ozae044.196},
-    year = {2024},
-    month = {07},
-    abstract = "{Nanoparticles (NPs) are integral to a wide range of scientific, technological, and industrial applications due to their unique properties. Accurate and efficient analysis of NP characteristics is essential for advancing our understanding of their structure-property relationship and facilitating their applications. In this study, we introduce a novel AI prompt engineering approach to NP analysis, utilizing state-of-the-art single-shot detection (SSD) and vision transformer (ViT) techniques, including Ultralytics YOLOv8 and Meta AI segment-anything model (SAM) frameworks, as illustrated in Figure 1 [1, 2]. Our results demonstrate that AI-powered automated nanoparticle analysis is competitive with human-handcrafted manual methods, significantly reducing the processing and analysis time while maintaining high precision and accuracy.}",
-    issn = {1431-9276},
-    doi = {10.1093/mam/ozae044.196},
-    url = {https://doi.org/10.1093/mam/ozae044.196},
-    eprint = {https://academic.oup.com/mam/article-pdf/30/Supplement\_1/ozae044.196/58670943/ozae044.196.pdf},
+@misc{genc2024versatilemachinelearningworkflow,
+      title={A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles}, 
+      author={Arda Genc and Justin Marlowe and Anika Jalil and Libor Kovarik and Phillip Christopher},
+      year={2024},
+      eprint={2410.01213},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2410.01213}, 
 }
 
 ```
