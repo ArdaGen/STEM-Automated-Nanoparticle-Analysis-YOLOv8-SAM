@@ -19,7 +19,7 @@ sys.path.append("..")
 
 def object_detection (img_x, img, path_to_image, img_size=1024, pred_score = 0.25, overlap_thr =0.5, save = False, s_txt = False):
     from ultralytics import YOLO
-    path_to_weights_obj = "best12x.pt"
+    path_to_weights_obj = "best12x.pt" # Weights for the YOLO
     model = YOLO(path_to_weights_obj)
     model.to('cuda')
     # Run detection on the image
@@ -49,7 +49,7 @@ def segmentation(img, bbox, erode = False, dilate = False, kernel_size =(5, 5) )
 
 
     # Load the model
-    sam_checkpoint = "sam_vit_b_01ec64.pth"
+    sam_checkpoint = "sam_vit_b_01ec64.pth" # weights for the SAM
     model_type = "vit_b"
     device = "cuda"
     sam = sam_model_registry[model_type](checkpoint=sam_checkpoint)
