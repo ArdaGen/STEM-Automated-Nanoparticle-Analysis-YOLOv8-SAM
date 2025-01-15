@@ -13,8 +13,8 @@ Sets of object detection, segmentation, and NP analysis results from BF-TEM imag
 
 
 ## Scripts
-* **Velox emd** <br>
-  Read Thermo Fisher Scientific Velox S/TEM image and metadata
+* **Data reader** <br>
+  Read ".emd", ".emi", ".dm3", ".dm4", ".tif", "tiff", ".png", ".jpg"
 * **Detector** <br>
   Run YOLOv8 on the S/TEM images and generate box prompts <br>
   Segment nanoparticles using box prompts and SAM
