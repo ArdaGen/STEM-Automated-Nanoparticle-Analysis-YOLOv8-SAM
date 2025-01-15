@@ -14,7 +14,7 @@ Sets of object detection, segmentation, and NP analysis results from BF-TEM imag
 
 ## Scripts
 * **Data reader** <br>
-  Read ".emd", ".emi", ".dm3", ".dm4", ".tif", "tiff", ".png", ".jpg"
+  Read ".emd", ".emi", ".dm3", ".dm4"
 * **Detector** <br>
   Run YOLOv8 on the S/TEM images and generate box prompts <br>
   Segment nanoparticles using box prompts and SAM
