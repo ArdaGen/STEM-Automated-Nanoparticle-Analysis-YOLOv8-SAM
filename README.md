@@ -28,6 +28,10 @@ Sets of object detection, segmentation, and NP analysis results from BF-TEM imag
 Install [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
 <br>
+Install RosettaSciIO
+```
+pip install rosettasciio
+```
 Install Ultralytics for YOLOv8
 ```
 pip install ultralytics
