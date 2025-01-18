@@ -45,6 +45,9 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 <br>
 [Please fill out the assessment form here to nanoDetect](https://docs.google.com/forms/d/e/1FAIpQLScmBEpYrSrEPY_Y80fxzhahPQM6Qyug_sTkhP42lKNQTQ7Wmw/viewform?usp=header)
 
+## Demo
+![](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/nanoDetect_v2.2.gif)
+
 ## Cite
 ```
 @misc{genc2024versatilemachinelearningworkflow,
@@ -58,9 +61,6 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 }
 
 ```
-## Demo
-![](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/nanoDetect_v2.2.gif)
-
 
 
 
