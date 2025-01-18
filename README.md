@@ -59,7 +59,7 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 
 ```
 ## Demo
-![](https://github.com/ArdaGen/STEM-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/AI_nanoparticle_2.gif)
+![](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/nanoDetect_v2.2.gif)
 
 
 
