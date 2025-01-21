@@ -43,7 +43,7 @@ https://github.com/facebookresearch/segment-anything
 weights for YOLOv8 particle detection [here](https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM?usp=sharing)
 <br>
 <br>
-## nanoDetect for AI-assisted particle analysis
+## AI-assisted particle analysis software nanoDetect
 [Please fill out the form here to gain access to nanoDetect software](https://docs.google.com/forms/d/e/1FAIpQLScmBEpYrSrEPY_Y80fxzhahPQM6Qyug_sTkhP42lKNQTQ7Wmw/viewform?usp=header)
 
 ## Demo
