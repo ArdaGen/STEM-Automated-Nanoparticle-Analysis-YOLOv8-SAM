@@ -44,7 +44,7 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 <br>
 <br>
 ## AI-assisted particle analysis software nanoDetect
-[Please fill out the form here to gain access to nanoDetect software](https://docs.google.com/forms/d/e/1FAIpQLScmBEpYrSrEPY_Y80fxzhahPQM6Qyug_sTkhP42lKNQTQ7Wmw/viewform?usp=header)
+[Please fill out the form here to gain access to nanoDetect software installer](https://docs.google.com/forms/d/e/1FAIpQLScmBEpYrSrEPY_Y80fxzhahPQM6Qyug_sTkhP42lKNQTQ7Wmw/viewform?usp=header)
 
 ## Demo
 ![](https://github.com/ArdaGen/STEM-Automated-Nanoparticle-Analysis-YOLOv8-SAM/blob/main/images/nanoDetect_v2.2.gif)
