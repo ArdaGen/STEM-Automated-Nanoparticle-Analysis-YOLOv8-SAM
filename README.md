@@ -51,14 +51,18 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 
 ## Cite
 ```
-@misc{genc2024versatilemachinelearningworkflow,
-      title={A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles}, 
-      author={Arda Genc and Justin Marlowe and Anika Jalil and Libor Kovarik and Phillip Christopher},
-      year={2024},
-      eprint={2410.01213},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci},
-      url={https://arxiv.org/abs/2410.01213}, 
+@article{GENC2025114116,
+title = {A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles},
+journal = {Ultramicroscopy},
+volume = {271},
+pages = {114116},
+year = {2025},
+issn = {0304-3991},
+doi = {https://doi.org/10.1016/j.ultramic.2025.114116},
+url = {https://www.sciencedirect.com/science/article/pii/S0304399125000154},
+author = {Arda Genc and Justin Marlowe and Anika Jalil and Daniel Belzberg and Libor Kovarik and Phillip Christopher},
+keywords = {Machine learning, Heterogeneous catalysts, Particle analysis, Transmission electron microscopy, Instance segmentation},
+abstract = {Accurate and efficient characterization of nanoparticles (NPs), particularly regarding particle size distribution, is essential for advancing our understanding of their structure-property relationship and facilitating their design for various applications. In this study, we introduce a novel two-stage artificial intelligence (AI)-driven workflow for NP analysis that leverages prompt engineering techniques from state-of-the-art single-stage object detection and large-scale vision transformer (ViT) architectures. This methodology is applied to transmission electron microscopy (TEM) and scanning TEM (STEM) images of heterogeneous catalysts, enabling high-resolution, high-throughput analysis of particle size distributions for supported metal catalyst NPs. The model's performance in detecting and segmenting NPs is validated across diverse heterogeneous catalyst systems, including various metals (Ru, Cu, PtCo, and Pt), supports (silica (SiO2), γ-alumina (γ-Al2O3), and carbon black), and particle diameter size distributions with mean and standard deviations ranging from 1.6 ± 0.2 nm to 9.7 ± 4.6 nm. The proposed machine learning (ML) methodology achieved an average F1 overlap score of 0.91 ± 0.01 and demonstrated the ability to disentangle overlapping NPs anchored on catalytic support materials. The segmentation accuracy is further validated using the Hausdorff distance and robust Hausdorff distance metrics, with the 90th percent of the robust Hausdorff distance showing errors within 0.4 ± 0.1 nm to 1.4 ± 0.6 nm. Our AI-assisted NP analysis workflow demonstrates robust generalization across diverse datasets and can be readily applied to similar NP segmentation tasks without requiring costly model retraining.}
 }
 
 ```
