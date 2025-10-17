@@ -43,7 +43,12 @@ https://github.com/facebookresearch/segment-anything
 weights for YOLOv8 particle detection [here](https://drive.google.com/drive/folders/1-ooqb_eBRD0WLau7fTwLcZzDW7jWfmDM?usp=sharing)
 <br>
 <br>
-## AI-assisted particle analysis software nanoDetect
+## AI-Assisted Particle Analysis Software – nanoDetect
+- Please refer to the **User Manual** for instructions on modifying bounding boxes — including how to **add**, **delete**, or **resize** them.  
+- **Note:** Particles that **land at the edges of images** are **automatically excluded** from analysis to avoid boundary artifacts.
+
+
+  
 [Please fill out the form here to gain access to nanoDetect software installer](https://docs.google.com/forms/d/e/1FAIpQLScmBEpYrSrEPY_Y80fxzhahPQM6Qyug_sTkhP42lKNQTQ7Wmw/viewform?usp=header)
 
 ## Demo
