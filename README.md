@@ -48,7 +48,7 @@ weights for YOLOv8 particle detection [here](https://drive.google.com/drive/fold
 ## AI-Assisted Particle Analysis Software – nanoDetect
 - Refer to the **User Manual** for detailed instructions on modifying bounding boxes (adding, deleting, or resizing).  
 - **Note:** Particles that are **partially obscured or truncated at image boundaries** are **excluded from analysis**.
-- nanoDetect 2.2.9 bug fix for correct pixel size input in tiff, png and jpg images
+
 
 
 
